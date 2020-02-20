@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46e53fa4-6acf-4a5f-95b7-2ea207397899" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XqfIcyENSTgIIfZGRiKcZrFBeo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\DemoNopCommerceTest\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSuit.userShouldAbleToRegisterButton">
+    <configuration name="TestSuit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTest1" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest1.TestSuit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTest1" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldBeAbleToCompareTwoDifferentProductSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTest1" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToCompareTwoDifferentProductSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldBeAbleToRefeAProductToFriendverifyEmailSsentSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DemoNopCommerceTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DemoTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DemoTest1" />
+      <option name="MAIN_CLASS_NAME" value="DemoTest1.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRefeAProductToFriendverifyEmailSsentSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSuit.userShouldAbleToRegisterButton" />
+        <item itemvalue="JUnit.TestSuit.userShouldBeAbleToCompareTwoDifferentProductSuccessfully" />
+        <item itemvalue="JUnit.TestSuit.userShouldBeAbleToRefeAProductToFriendverifyEmailSsentSuccess" />
+        <item itemvalue="JUnit.TestSuit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e53fa4-6acf-4a5f-95b7-2ea207397899" name="Default Changelist" comment="" />
+      <created>1581778466789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581778466789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="222" width="585" height="430" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582132956456">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="222" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1582132956456" />
+    <state x="507" y="222" width="585" height="430" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1582037121697" />
+    <state width="1533" height="284" key="GridCell.Tab.0.bottom" timestamp="1582134892669">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1533" height="284" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1582134892669" />
+    <state width="1373" height="284" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1582042875144" />
+    <state width="1533" height="284" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582119984245" />
+    <state width="1533" height="284" key="GridCell.Tab.0.center" timestamp="1582134892669">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1533" height="284" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1582134892669" />
+    <state width="1373" height="284" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1582042875143" />
+    <state width="1533" height="284" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582119984244" />
+    <state width="1533" height="284" key="GridCell.Tab.0.left" timestamp="1582134892668">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1533" height="284" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1582134892668" />
+    <state width="1373" height="284" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1582042875143" />
+    <state width="1533" height="284" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582119984244" />
+    <state width="1533" height="284" key="GridCell.Tab.0.right" timestamp="1582134892669">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1533" height="284" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1582134892669" />
+    <state width="1373" height="284" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1440.860@1600.0.1440.860" timestamp="1582042875144" />
+    <state width="1533" height="284" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582119984244" />
+    <state x="105" y="0" key="Maven.ArtifactSearchDialog" timestamp="1581779145559">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="105" y="0" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1581779145559" />
+    <state x="0" y="0" key="new project wizard" timestamp="1581780955080">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1581780955080" />
+    <state x="422" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581876630679">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="422" y="0" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1581876630679" />
+    <state x="293" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1582133112832">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="293" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1582133112832" />
+  </component>
+</project>
